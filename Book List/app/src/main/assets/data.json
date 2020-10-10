@@ -1,0 +1,26 @@
+[
+	{
+		"title":"Alice in Wonderland",
+		"cover":"cover1.png"
+	},
+	{
+		"title":"Backpacking around Eastern Europe",
+		"cover":"cover2.png"
+	},
+	{
+		"title":"From Zero to One Million Dollars in a Year",
+		"cover":"cover3.png"
+	},
+	{
+		"title":"Best Sandwich Recipes from Around the World",
+		"cover":"cover4.png"
+	},
+	{
+		"title":"Dude, Where's My Car?",
+		"cover":"cover3.png"
+	},
+	{
+		"title":"Poems From The South West",
+		"cover":"cover4.png"
+	}
+]

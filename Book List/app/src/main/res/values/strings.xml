@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book List</string>
+    <string name="title">Title</string>
+    <string name="read">READ</string>
+    <string name="share">SHARE</string>
+    <string name="delete">DELETE</string>
+    <string name="book_title">Book title</string>
+</resources>
